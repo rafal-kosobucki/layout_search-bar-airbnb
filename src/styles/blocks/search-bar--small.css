@@ -4,7 +4,7 @@
 }
 
 .search-bar--small__item {
-  font-family: Avenir-book, sans-serif;
+  font-family: Avenir, sans-serif;
   font-weight: 400;
   line-height: 100%;
   border: 1px solid #e1e7ed;
@@ -22,6 +22,7 @@
 
 .search-bar--small__item::placeholder {
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  color: #3d4e61;
 }
 
 .search-bar--small__item:hover {
@@ -33,7 +34,7 @@
 }
 
 .search-bar--small__item:focus {
-  font-family: Avenir-heavy, sans-serif;
+  font-family: Avenir, sans-serif;
   font-weight: 900;
   border-radius: 3px;
   outline: none;
@@ -45,6 +46,6 @@
 
 .search-bar--small__item:focus::placeholder {
   text-shadow: none;
-  font-family: Avenir-book, sans-serif;
+  font-family: Avenir, sans-serif;
   font-weight: 400;
 }

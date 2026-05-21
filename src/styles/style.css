@@ -1,4 +1,5 @@
 @import './blocks/html.css';
 @import './blocks/body.css';
+@import './blocks/search-bar.css';
 @import './blocks/search-bar--big.css';
 @import './blocks/search-bar--small.css';
